@@ -1,0 +1,8 @@
+Flask
+numpy
+opencv-python
+requests
+fastapi["all"]
+hashlib
+datetime
+json
